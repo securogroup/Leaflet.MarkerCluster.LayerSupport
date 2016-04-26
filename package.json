@@ -1,0 +1,26 @@
+{
+  "name": "leaflet.markercluster.layersupport",
+  "version": "0.1.1",
+  "description": "Creates a Leaflet Feature Group that adds its child layers into a parent group when added to a map",
+  "main": "leaflet.markercluster.layersupport-src.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport.git"
+  },
+  "keywords": [
+    "leaflet",
+    "leaflet.makercluster",
+    "plugins",
+    "maps",
+    "subgroup"
+  ],
+  "author": "Boris Seang",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport/issues"
+  },
+  "homepage": "https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport#readme",
+  "peerDependencies": {
+    "leaflet": "~0.7.7"
+  }
+}
